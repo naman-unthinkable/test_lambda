@@ -1,2 +1,2 @@
 print("Naman Sharma")
-print("This is the testing file for Lambda Updation")
+print("This file is for testing lambda updation")
